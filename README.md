@@ -1,3 +1,4 @@
+
 <!--# BookGenreClassification -->
 
 Book Genre Classification Based on Synopsis
@@ -20,6 +21,4 @@ Mile Stone 1
 For the python notebook for milestone one can be found in `\code\milestone1.ipynb`. The notebook takes in a text file from the collection of blurbs and outputs two arrays: a *X-set* (just the synopses of the books) and a *Y-set* (an array that contains each tag associated with the synopsis). You can see demonstrations of each input set (training, validation and testing) in this file as well. 
 
 For a more in-depth look at how data changes at each step, check out the `\code\preMilestone1.ipynb`. 
-
-
 

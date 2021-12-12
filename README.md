@@ -16,9 +16,8 @@ Data
 -----
 As mentioned, we used the **Blurb Genre Collection** as our dataset. The dataset comes pre-divided into training, test and validation sets. The original dataset comes with a lot of extra information for each book entry - we pared it down to just the book synopsis and the list of genre tags. You can find the original datasets in the `\data` folder. To see our cleaned data, check in `\code\milestone1.ipynb`. 
 
-Mile Stone 1
-----------
-For the python notebook for milestone one can be found in `\code\milestone1.ipynb`. The notebook takes in a text file from the collection of blurbs and outputs two arrays: a *X-set* (just the synopses of the books) and a *Y-set* (an array that contains each tag associated with the synopsis). You can see demonstrations of each input set (training, validation and testing) in this file as well. 
+Documentation: 
+-------------
+Documentation for this project can be found at the following google document: https://docs.google.com/document/d/1nqgmYiidY08dSJ5blok3ML4a9_PnkSbxzFtglpFMxAc/edit?usp=sharing. 
 
-For a more in-depth look at how data changes at each step, check out the `\code\preMilestone1.ipynb`. 
-
+The presentation slides for this project can be found in this google presentation: https://docs.google.com/presentation/d/19BkR9o13FiJW5jzguZRYyAMLe-YMiCoSORKNy0jXW_c/edit?usp=sharing 
